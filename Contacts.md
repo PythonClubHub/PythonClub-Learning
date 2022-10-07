@@ -1,4 +1,4 @@
-Nume                    Email                             Sectie      An    Git User  
+# Nume                    Email                             Sectie      An    Git User  
 Andrei Cirstea          andrei.cirstea98@gmail.com        MEC          II 
 Andreea Stefanescu      andreeast2002@gmail.com           MEC          II
 Evelina Jianu           eve.familyy@gmail.com             Litere       I  
