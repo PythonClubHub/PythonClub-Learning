@@ -6,4 +6,15 @@ def get_student_name():
     Argument: None
     Return: a string
     """
-    return "John Doe"
+    name = str(input("What's your name?: "))
+    lastName = str(input("What's your last name?: "))
+    firstLetterOfTheName = name[0]
+    firstLetterOfTheLastName = lastName[0]
+
+    print(firstLetterOfTheName.upper()+ " " + firstLetterOfTheLastName.upper())
+
+    # return "John Doe"
+
+    return firstLetterOfTheName + " " + firstLetterOfTheLastName
+
+get_student_name()
