@@ -9,4 +9,11 @@ def debug_print():
     Argument: A string
     Return: A string
     """
+
+def log_input():
+    """Function should log the string in an test.txt file.
+    If the file does not exist it should be created, and if 
+    it is aready created it should apend to it.
+    Arguments: A string
+    Return: Boolean"""
     
