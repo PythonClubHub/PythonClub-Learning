@@ -8,13 +8,11 @@ def get_student_name():
     """
     name = str(input("What's your name?: "))
     lastName = str(input("What's your last name?: "))
-    firstLetterOfTheName = name[0]
-    firstLetterOfTheLastName = lastName[0]
 
-    print(firstLetterOfTheName.upper()+ " " + firstLetterOfTheLastName.upper())
+    print(name.capitalize()+ " " + lastName.capitalize())
 
     # return "John Doe"
 
-    return firstLetterOfTheName + " " + firstLetterOfTheLastName
+    return name.capitalize() + " " + lastName.capitalize()
 
 get_student_name()
