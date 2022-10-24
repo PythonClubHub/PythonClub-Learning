@@ -23,11 +23,6 @@
 >- Sectie : EA
 >- An :  III
 
->### - Timotei Sandru :
->- Email :  timotei.sandru2022@gmail.com
->- Sectie : EA
->- An :  III
-
 >### - Alexandre Urluescu :
 >- Email :  alexurluescu23@gmail.com
 >- Sectie : TI
