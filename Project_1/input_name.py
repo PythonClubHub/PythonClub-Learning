@@ -16,12 +16,12 @@ def get_student_name():
     validation_name = name_user.isalpha()
     validation_lastName = lastName_user.isalpha()
 
-    if validation_name == False:
+    while(validation_name == False):
         print("Ati tastat un nume gresit, va rog sa folositi doar litere")
         name = str(input("What's your name?: "))
         name_user = name[:15]
     
-    if validation_lastName == False:
+    while(validation_lastName == False):
         print("Ati tastat un prenume gresit, va rog sa folositi doar litere")
         lastName = str(input("What's your last name?: "))
         lastName_user = lastName[:15]
