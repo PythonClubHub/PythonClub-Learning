@@ -8,23 +8,26 @@ def get_student_name():
     Return: a string
     """
     name = str(input("What's your name?: "))
-    lastName = str(input("What's your last name?: "))
-
     name_user = name[:15]
-    lastName_user = lastName[:15]
-
     validation_name = name_user.isalpha()
-    validation_lastName = lastName_user.isalpha()
+    
 
     while(validation_name == False):
         print("Ati tastat un nume gresit, va rog sa folositi doar litere")
         name = str(input("What's your name?: "))
         name_user = name[:15]
+        validation_name = name_user.isalpha()
+    
+    lastName = str(input("What's your last name?: "))
+    lastName_user = lastName[:15]
+    validation_lastName = lastName_user.isalpha()
     
     while(validation_lastName == False):
         print("Ati tastat un prenume gresit, va rog sa folositi doar litere")
         lastName = str(input("What's your last name?: "))
         lastName_user = lastName[:15]
+        validation_lastName = lastName_user.isalpha()
+        
 
     # return "John Doe"
 
