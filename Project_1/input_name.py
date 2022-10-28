@@ -34,5 +34,5 @@ def get_student_name():
     print(name_user.capitalize() + " " + lastName_user.capitalize())
     return name.capitalize() + " " + lastName.capitalize()
 
-
-get_student_name()
+if __name__ == "__main__":
+    get_student_name()
