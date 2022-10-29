@@ -1,5 +1,18 @@
 # File to be modified by Alex
 
+from sre_constants import LITERAL_UNI_IGNORE
+
+
+# name + last = maxim 30
+
+# fiecare in parte oricat de lungi
+# in caz ca sar de 30 vom taia din name iau pana la 30
+
+
+# str = "test  "
+# str = str.strip()
+
+# print(len(str))
 
 def get_student_name():
     """Function that asks the user to type the name of a student and return the name with first letter in each name as Upper case.
@@ -8,31 +21,55 @@ def get_student_name():
     Return: a string
     """
     name = str(input("What's your name?: "))
-    name_user = name[:15]
-    validation_name = name_user.isalpha()
+    name = name.strip()
+    validation_name = name.isalpha()
     
+    # if(len(name) > 10):
+    #     print('Too long')
+
+    name_long = len(name)
+    print(name_long)
 
     while(validation_name == False):
-        print("Ati tastat un nume gresit, va rog sa folositi doar litere")
+        print("You texted a wrong name, please use only letters")
         name = str(input("What's your name?: "))
-        name_user = name[:15]
-        validation_name = name_user.isalpha()
+        validation_name = name.isalpha()
     
     lastName = str(input("What's your last name?: "))
-    lastName_user = lastName[:15]
-    validation_lastName = lastName_user.isalpha()
+    lastName = lastName.strip()
+    validation_lastName = lastName.isalpha()
+
+    lastName_long = len(lastName)
+    print(lastName_long)
+
+    total_long = name_long + lastName_long
+
+    print("Avem in total " + str(total_long) + " characters")
     
     while(validation_lastName == False):
-        print("Ati tastat un prenume gresit, va rog sa folositi doar litere")
+        print("You texted a wrong last name, please use only letters")
         lastName = str(input("What's your last name?: "))
-        lastName_user = lastName[:15]
-        validation_lastName = lastName_user.isalpha()
+        validation_lastName = lastName.isalpha()
         
+    if(total_long > 20):
+        print("Your name and last name are over 30 characters")
+        print("It is possible the name will become short")
 
-    # return "John Doe"
+        # Here I calculated how many letters are over
+        number_letters_over = total_long - 30
 
-    print(name_user.capitalize() + " " + lastName_user.capitalize())
-    return name.capitalize() + " " + lastName.capitalize()
+        # print("Am depasit cu " + str(number_letters_over) + " litere")
+
+        # Here I calculated how many letters the name have to contain
+        new_name_long = name_long - number_letters_over
+        
+        # print("Acum numele trebuie sa aiba " + str(new_name_long) + " litere")
+
+        print(lastName.capitalize() + " " + name[0:new_name_long].capitalize())
+
+    else:
+        print(lastName.capitalize() + " " + name.capitalize())
+        return lastName.capitalize() + " " + name.capitalize()
 
 if __name__ == "__main__":
     get_student_name()
