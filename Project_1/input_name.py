@@ -51,7 +51,7 @@ def get_student_name():
         lastName = str(input("What's your last name?: "))
         validation_lastName = lastName.isalpha()
         
-    if(total_long > 20):
+    if(total_long > 30):
         print("Your name and last name are over 30 characters")
         print("It is possible the name will become short")
 
