@@ -1,13 +1,13 @@
-"""File to be modified by Timotei -> Make it nice and print the details as you want."""""""""
+""" File to be modified by Timotei """
 import input_name
 import input_age
 import input_details
-#import util
+import util
 
 
 def main():
-    print("Hello")
-    """Main function of the project.
+    """
+    Main function of the project.
     Arguments: None
     Return: None
     """
@@ -19,4 +19,5 @@ def main():
     print(f"New student entering the club is: {student_name}, and he's {student_age} years old.")
     print(f"He is a student in {student_year_of_study} year of study in {student_field_of_study} field.")
 
-main()
+if __name__ == "__main__":
+    main()
