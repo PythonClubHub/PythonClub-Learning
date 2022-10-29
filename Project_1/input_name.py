@@ -28,7 +28,7 @@ def get_student_name():
     #     print('Too long')
 
     name_long = len(name)
-    print(name_long)
+    # print(name_long)
 
     while(validation_name == False):
         print("You texted a wrong name, please use only letters")
@@ -40,11 +40,11 @@ def get_student_name():
     validation_lastName = lastName.isalpha()
 
     lastName_long = len(lastName)
-    print(lastName_long)
+    # print(lastName_long)
 
     total_long = name_long + lastName_long
 
-    print("Avem in total " + str(total_long) + " characters")
+    # print("Avem in total " + str(total_long) + " characters")
     
     while(validation_lastName == False):
         print("You texted a wrong last name, please use only letters")
@@ -66,6 +66,7 @@ def get_student_name():
         # print("Acum numele trebuie sa aiba " + str(new_name_long) + " litere")
 
         print(lastName.capitalize() + " " + name[0:new_name_long].capitalize())
+        return lastName.capitalize() + " " + name[0:new_name_long].capitalize() 
 
     else:
         print(lastName.capitalize() + " " + name.capitalize())
