@@ -65,11 +65,11 @@ def get_student_name():
         
         # print("Acum numele trebuie sa aiba " + str(new_name_long) + " litere")
 
-        print(lastName.capitalize() + " " + name[0:new_name_long].capitalize())
+        # print(lastName.capitalize() + " " + name[0:new_name_long].capitalize())
         return lastName.capitalize() + " " + name[0:new_name_long].capitalize() 
 
     else:
-        print(lastName.capitalize() + " " + name.capitalize())
+        # print(lastName.capitalize() + " " + name.capitalize())
         return lastName.capitalize() + " " + name.capitalize()
 
 if __name__ == "__main__":
