@@ -25,4 +25,13 @@
 >[![](https://img.youtube.com/vi/JPZsB_6yHVo/0.jpg)](https://www.youtube.com/watch?v=JPZsB_6yHVo "Install VSCode")
 
 >## Instalarea SourceTree
->Se descarca VSCode de pe link : [LINK](https://www.sourcetreeapp.com/)  
+>Se descarca VSCode de pe link : [LINK](https://www.sourcetreeapp.com/)
+>  
+>Pentru a putea adauga o cheie SSH se da click pe "Tools" si se selecteaza "Options"
+> ![](Setup%20images/sourcetree.JPG)
+>  
+>Se selecteaza optiunea "OpenSSH" in campul "SSH Client"
+>![](Setup%20images/open%20ssh.JPG)
+>  
+>Se da click pe cele 3 puncte din dreapta campului "SHH Key" si se alege fisierul cu extensia ".pub"
+>![](Setup%20images/SSHkey_select.jpg)
