@@ -11,27 +11,32 @@ Alexandru Urluescu      alexurluescu23@gmail.com          TI           I -->
 ## Members :
 
 >### - Andrei Cirstea:
->- Email : andrei.cirstea98@gmail.com
->- Sectie : MEC
->- An : II
+>- **Email** : andrei.cirstea98@gmail.com
+>- **Sectie** : MEC
+>- **An** : II
+>- **Since** : 01.10.2022
 
 >### - Andreea Stefanescu:
->- Email :  andreeast2002@gmail.com
->- Sectie : MEC
->- An : II
+>- **Email** :  andreeast2002@gmail.com
+>- **Sectie** : MEC
+>- **An** : II
+>- **Since** : 01.10.2022
 
 >### - Evelina Jianu:
->- Email :  eve.familyy@gmail.com
->- Sectie : Litere
->- An : I
+>- **Email** :  eve.familyy@gmail.com
+>- **Sectie** : Litere
+>- **An** : I
+>- **Since** : 01.10.20222
 
 >### - Timotei Sandru :
->- Email :  timotei.sandru2022@gmail.com
->- Sectie : EA
->- An :  III
+>- **Email** :  timotei.sandru2022@gmail.com
+>- **Sectie** : EA
+>- **An** :  III
+>- **Since** : 01.10.2022
 
 >### - Alexandre Urluescu :
->- Email :  alexurluescu23@gmail.com
->- Sectie : TI
->- An :  I
+>- **Email** :  alexurluescu23@gmail.com
+>- **Sectie** : TI
+>- **An** :  I
+>- **Since** : 01.10.2022
 
