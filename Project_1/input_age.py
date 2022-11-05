@@ -1,8 +1,5 @@
 # File to be modified by Andreea
-
-from Project_1.util import DEBUG
-import main
-import util
+from Project_1.util import debug_print
 
 def get_student_age():
     """Function that asks the user to type the age of a student and return the age as numerical value.
@@ -10,19 +7,24 @@ def get_student_age():
     Argument: None
     Return: a numerical value
     """
+
+    valid_student_age = True
     
-    while True:
+    while valid_student_age == True:
         try :
             student_age = int(input("Insert your age please (must be a numerical value between 0 and 99) : "))
-            break
         except:
             print("You must enter a valid number ( 0-99)")
+            continue
     
-    if student_age in range(1,98):
-        if DEBUG:
-            print(student_age)
-        return student_age
-    else:
-        print("You must enter a valid number ( 0-99)")
-        get_student_age()
+        if student_age in range(1,98):
+            valid_student_age = False 
+            debug_print()
+        else:
+            print("You must enter a valid number ( 0-99)")
+    
+    return student_age
+
+if __name__ == "__main__":
+    get_student_age()
 
