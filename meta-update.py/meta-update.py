@@ -1,14 +1,12 @@
-# It's not finished   ... work in progress...
 # Take a look if you want and make suggestions
 
 from tkinter import *
 import os
 import sys
 from tkinter import messagebox
-#import git
+import git
 
 Value = 0
-git_dir = ""
 
 
 def MessageBox():
@@ -42,11 +40,10 @@ def isDir(filename):
         for filename in os.listdir(new_directory):      # For each file in source directory
             if filename[:5] == "meta-":                 # Verify if "meta-" file exist
                 directory_pull = os.path.join(new_directory, filename) # From this path we need to make git pull
-                #print("Inside meta folder")
-                #g = git.cmd.Git(git_dir)
-                #g.pull()
-                #print("I've made a git pull from", git_dir)
-                #print("")
+                g = git.cmd.Git(directory_pull)
+                g.pull()
+                print("I've made a git pull for", directory_pull)
+                print("")
 
 
 directory = os.path.join(r"", ask_directory())
