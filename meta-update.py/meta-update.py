@@ -7,11 +7,13 @@ import sys
 from tkinter import messagebox
 #import git
 
+Value = 0
 git_dir = ""
+
 
 def MessageBox():
     import tkinter.messagebox
-    tkinter.messagebox.showinfo(title="!", message="Error..")
+    tkinter.messagebox.showinfo(title="!", message="Error, directory does not exist")
 
 def ask_directory():
     import tkinter.filedialog as fd
@@ -52,5 +54,9 @@ print("Your directory: ",directory)
 
 for filename in os.listdir(directory):
     if filename == "source":
+        Value = 1
         isDir(filename)
+
+if Value == 0:
+    MessageBox()
 
