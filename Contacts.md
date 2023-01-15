@@ -40,3 +40,9 @@ Alexandru Urluescu      alexurluescu23@gmail.com          TI           I -->
 >- **An** :  I
 >- **Since** : 01.10.2022
 
+>### - Balasa Carina :
+>- **Email** :  carina_marina07@yahoo.com
+>- **Sectie** : TI
+>- **An** :  I
+>- **Since** : 23.12.2022
+
