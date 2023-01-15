@@ -44,5 +44,5 @@ Alexandru Urluescu      alexurluescu23@gmail.com          TI           I -->
 >- **Email** :  carina_marina07@yahoo.com
 >- **Sectie** : TI
 >- **An** :  I
->- **Since** : 23.12.2022
+>- **Since** : 23.12.2022 
 
