@@ -1,5 +1,5 @@
 #File to be modified by Andrei
-from Project_1.util import debug_print
+from util import *
 
 def get_year_of_study():
     """Function that asks the user to type the year of study of a student and return the year of study as numerical value.

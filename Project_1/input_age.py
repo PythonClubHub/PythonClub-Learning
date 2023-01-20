@@ -1,5 +1,5 @@
 # File to be modified by Andreea
-from Project_1.util import debug_print
+from util import *
 
 def get_student_age():
     """Function that asks the user to type the age of a student and return the age as numerical value.
