@@ -130,3 +130,6 @@ dmypy.json
 
 # local test files
 Project_1/test.*
+
+# pdf files
+*.pdf
