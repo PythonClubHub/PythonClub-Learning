@@ -14,3 +14,14 @@ https://www.youtube.com/watch?v=sxTmJE4k0ho
 
 # Tkinter
 https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV
+
+
+# Reminder
+# Python Logging
+https://www.youtube.com/watch?v=pxuXaaT1u3k
+
+# Threading
+https://codeberryschool.com/blog/en/python-threading/
+
+# Encoding and Decoding Strings
+https://www.youtube.com/watch?v=5zMmc1wmZ_0
