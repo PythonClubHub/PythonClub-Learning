@@ -51,7 +51,7 @@ Valentin                valentinemsphotography@gmail.com  ISM          I
 >- **An** :  I
 >- **Since** : 23.12.2022 
 
-### Valentin :
+>### - Valentin :
 >- **Email** :  valentinemsphotography@gmail.com
 >- **Sectie** : ISM
 >- **An** :  I

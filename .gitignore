@@ -132,4 +132,4 @@ dmypy.json
 Project_1/test.*
 
 # pdf files
-*.pdf
+*.pdf/
