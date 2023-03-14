@@ -46,6 +46,7 @@ Valentin                valentinemsphotography@gmail.com  ISM          I
 >- **An** :  I
 >- **Since** : 01.10.2022
 
+<<<<<<< HEAD
 ### - Carina Marina :
 >- **Email** :  carina_marina07@yahoo.com
 >- **Sectie** : TI
@@ -57,3 +58,14 @@ Valentin                valentinemsphotography@gmail.com  ISM          I
 >- **Sectie** : ISM
 >- **An** :  I
 >- **Since** : 03.03.2022
+=======
+>### - Balasa Carina :
+>- **Email** :  carina_marina07@yahoo.com
+>- **Sectie** : TI
+>- **An** :  I
+>- **Since** : 23.12.2022 
+
+
+
+
+>>>>>>> 07eb75ee304648b9881823e71d4f6d21e08cd3ef
