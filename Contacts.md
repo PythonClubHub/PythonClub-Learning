@@ -6,6 +6,7 @@ Timotei Sandru          timotei.sandru2022@gmail.com      EA           III
 Alexandru Urluescu      alexurluescu23@gmail.com          TI           I 
 Carina Marina           carina_marina07@yahoo.com         TI           I
 Valentin                valentinemsphotography@gmail.com  ISM          I
+Viorel                  viorel.zabava04@gmail.com		  EA           III
 -->
 
 
@@ -56,3 +57,9 @@ Valentin                valentinemsphotography@gmail.com  ISM          I
 >- **Sectie** : ISM
 >- **An** :  I
 >- **Since** : 03.03.2022
+
+### - Viorel :
+>- **Email** :  viorel.zabava04@gmail.com
+>- **Sectie** : EA
+>- **An** :  III
+>- **Since** : 30.06.2022
