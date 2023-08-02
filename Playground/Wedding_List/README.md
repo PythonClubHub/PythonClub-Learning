@@ -40,7 +40,7 @@ Stoica Darius Table 1
 The GUI needs to contain at least 2 buttons.
 
 The first one to Load the file with all the guests.
-The second button gives you a file with the wedding file.
+The second button gives you the wedding file.
 
 # Recommended file structure
 - main.py
