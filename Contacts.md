@@ -7,6 +7,7 @@ Alexandru Urluescu      alexurluescu23@gmail.com          TI           I
 Carina Marina           carina_marina07@yahoo.com         TI           I
 Valentin                valentinemsphotography@gmail.com  ISM          I
 Viorel                  viorel.zabava04@gmail.com		  EA           III
+Armean Andreea          armean.andreea2003@gmail.com      TI           II
 -->
 
 
@@ -63,3 +64,9 @@ Viorel                  viorel.zabava04@gmail.com		  EA           III
 >- **Sectie** : EA
 >- **An** :  III
 >- **Since** : 30.06.2022
+
+### - Andreea :
+>- **Email** :  armean.andreea2003@gmail.com
+>- **Sectie** : TI
+>- **An** :  II
+>- **Since** : 13.10.2023
