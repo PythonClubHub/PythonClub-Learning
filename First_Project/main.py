@@ -29,7 +29,7 @@ def main():
         ordinal_ind="rd"   
     print(f"New student entering the club is: {student_name}, and s/he's {student_age} years old.")
     print(f"S/he is a student in {student_year_of_study}{ordinal_ind} year of study in {student_field_of_study} field.")
-    print ("\nS/he loves to {student_hobby} and usualy listens to {student_music_taste} music.")
+    print (f"S/he loves to {student_hobby} and usualy listens to {student_music_taste} music.")
 
 if __name__ == "__main__":
     main()
