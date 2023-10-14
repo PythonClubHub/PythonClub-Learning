@@ -63,8 +63,8 @@ Armean Andreea          armean.andreea2003@gmail.com      TI           II
 >- **Email** :  viorel.zabava04@gmail.com
 >- **Sectie** : EA
 >- **An** :  III
->- **Since** : 30.06.2022
-
+>- **Since** : 30.06.2023
+>- **Until** : 30.07.2023
 ### - Andreea :
 >- **Email** :  armean.andreea2003@gmail.com
 >- **Sectie** : TI
