@@ -26,9 +26,10 @@ def main():
     elif(student_year_of_study==2):
         ordinal_ind="nd"
     elif(student_year_of_study==3):
-        ordinal_ind="rd"   
-    print(f"New student entering the club is: {student_name}, and s/he's {student_age} years old.")
-    print(f"S/he is a student in {student_year_of_study}{ordinal_ind} year of study in {student_field_of_study} field.")
+        ordinal_ind="rd"
+        '''S/he means she / he'''   
+    print(f"New student entering the club is: {student_name}, and she/he's {student_age} years old.")
+    print(f"She/He is a student in {student_year_of_study}{ordinal_ind} year of study in {student_field_of_study} field.")
     print (f"S/he loves to {student_hobby} and usualy listens to {student_music_taste} music.")
 
 if __name__ == "__main__":
