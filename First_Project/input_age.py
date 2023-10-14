@@ -17,7 +17,7 @@ def get_student_age():
             print("You must enter a valid number ( 0-99)")
             continue
     
-        if student_age in range(1,98):
+        if student_age in range(0,99):
             valid_student_age = False 
             debug_print()
         else:
