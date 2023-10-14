@@ -1,4 +1,4 @@
-""" File to be modified by Timotei """
+''' File to be modified by Vali '''
 import input_name
 import input_age
 import input_details

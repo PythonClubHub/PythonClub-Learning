@@ -1,4 +1,4 @@
-#File to be modified by Andrei
+''' File to be modified by Andreea '''
 from util import *
 
 def get_year_of_study():
@@ -32,7 +32,7 @@ def get_field_of_study():
     Argument: None
     Return: a string
     """
-    return "EM"
+    return "Andreea's part"
 
 if __name__ == "__main__":
     get_year_of_study()

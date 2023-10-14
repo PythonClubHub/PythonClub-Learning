@@ -1,4 +1,4 @@
-# File to be modified by Andreea
+''' File to be modified by Andreea Stef '''
 from util import *
 
 def get_student_age():
