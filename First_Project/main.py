@@ -17,8 +17,8 @@ def main():
     student_age = input_age.get_student_age()
     student_year_of_study = input_details.get_year_of_study()
     student_field_of_study = input_details.get_field_of_study()
-    print(f"New student entering the club is: {student_name}, and he's {student_age} years old.")
-    print(f"He is a student in {student_year_of_study} year of study in {student_field_of_study} field.")
+    print(f"New student entering the club is: {student_name}, and s/he's {student_age} years old.")
+    print(f"S/he is a student in {student_year_of_study} year of study in {student_field_of_study} field.")
 
 if __name__ == "__main__":
     main()
