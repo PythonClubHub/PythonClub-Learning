@@ -25,3 +25,6 @@ https://codeberryschool.com/blog/en/python-threading/
 
 # Encoding and Decoding Strings
 https://www.youtube.com/watch?v=5zMmc1wmZ_0
+
+# Branches and commits convention
+https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
