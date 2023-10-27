@@ -32,7 +32,24 @@ def get_field_of_study():
     Argument: None
     Return: a string
     """
-    return "Andreea's part"
+
+    valid_field_of_study = True
+
+    while valid_field_of_study is True:
+        try: 
+            field_of_study=input("What is your field of study?")
+        except:
+            print("Unknown characters used")
+            continue
+
+        if len(field_of_study) in range(1,31):
+            valid_field_of_study=False
+            break
+        else: 
+            print("Try again")
+        
+    return field_of_study.upper()
 
 if __name__ == "__main__":
     get_year_of_study()
+    get_field_of_study()
