@@ -133,3 +133,5 @@ Project_1/test.*
 
 # pdf files
 *.pdf/
+
+test.py
