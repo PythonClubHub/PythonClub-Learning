@@ -1,4 +1,4 @@
-''' File to be modified by Iulia '''
+''' File to be modified by Mihai '''
 
 def get_student_hobby():
     '''
