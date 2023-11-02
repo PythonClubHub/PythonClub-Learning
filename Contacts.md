@@ -8,6 +8,7 @@ Carina Marina           carina_marina07@yahoo.com         TI           I
 Valentin                valentinemsphotography@gmail.com  ISM          I
 Viorel                  viorel.zabava04@gmail.com		  EA           III
 Armean Andreea          armean.andreea2003@gmail.com      TI           II
+Mot Mihai ALexandru     alexmihaita03@gmail.com           TI           II
 -->
 
 
@@ -47,6 +48,7 @@ Armean Andreea          armean.andreea2003@gmail.com      TI           II
 >- **Sectie** : TI
 >- **An** :  I
 >- **Since** : 01.10.2022
+
 >### - Balasa Carina :
 >- **Email** :  carina_marina07@yahoo.com
 >- **Sectie** : TI
@@ -65,8 +67,15 @@ Armean Andreea          armean.andreea2003@gmail.com      TI           II
 >- **An** :  III
 >- **Since** : 30.06.2023
 >- **Until** : 30.07.2023
+
 ### - Andreea :
 >- **Email** :  armean.andreea2003@gmail.com
 >- **Sectie** : TI
 >- **An** :  II
 >- **Since** : 13.10.2023
+
+>### - Mihai :
+>- **Email** : alexmihaita03@gmail.com
+>- **Sectie** : TI
+>- **An** :  II
+>- **Since** : 27.10.2023
