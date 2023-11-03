@@ -7,4 +7,21 @@ def get_student_hobby():
     Argument: None
     Return: String
     '''
-    return "Iulia's part"
+    Valid_Hobby=False
+
+    while Valid_Hobby is False:
+        Hobby=input("What are your hobbies? (input only characters) ")
+        is_string=Hobby.isalpha()
+        size_of_string = len(Hobby)
+
+        if (is_string is True) and size_of_string > 0 and size_of_string <= 20 :
+            Valid_Hobby = True
+            return Hobby
+        
+        elif size_of_string > 20 or size_of_string == 0 :
+            print("You either entered more than 20 characters or entered nothing. Please meet these conditions! ")
+
+        else: print ("Please input only characters!")
+
+get_student_hobby()
+ 
