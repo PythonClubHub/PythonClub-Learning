@@ -6,7 +6,8 @@ Timotei Sandru          timotei.sandru2022@gmail.com      EA           III
 Alexandru Urluescu      alexurluescu23@gmail.com          TI           I 
 Carina Marina           carina_marina07@yahoo.com         TI           I
 Valentin                valentinemsphotography@gmail.com  ISM          I
-Viorel                  viorel.zabava04@gmail.com		      EA           III
+Iulia Badea             iuliabadea@ulbsibiu.ro            TI           I
+Viorel Zavaba           viorel.zabava04@gmail.com		      EA           III
 Armean Andreea          armean.andreea2003@gmail.com      TI           II
 Mot Mihai ALexandru     alexmihaita03@gmail.com           TI           II
 -->
@@ -53,13 +54,20 @@ Mot Mihai ALexandru     alexmihaita03@gmail.com           TI           II
 >- **Email** :  carina_marina07@yahoo.com
 >- **Sectie** : TI
 >- **An** :  I
->- **Since** : 23.12.2022 
+>- **Since** : 23.12.2022
 
 >### - Valentin :
 >- **Email** :  valentinemsphotography@gmail.com
 >- **Sectie** : ISM
 >- **An** :  I
 >- **Since** : 03.03.2022
+
+>### - Iulia:
+>- **Email** :  iuliabadea@ulbsibiu.ro
+>- **Sectie** : TI
+>- **An** :  I
+>- **Since** : 15.05.2023
+>- **Until** : 16.10.2023
 
 >### - Viorel :
 >- **Email** :  viorel.zabava04@gmail.com
