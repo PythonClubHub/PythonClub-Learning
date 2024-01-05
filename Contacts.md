@@ -6,7 +6,7 @@ Timotei Sandru          timotei.sandru2022@gmail.com      EA           III
 Alexandru Urluescu      alexurluescu23@gmail.com          TI           I 
 Carina Marina           carina_marina07@yahoo.com         TI           I
 Valentin                valentinemsphotography@gmail.com  ISM          I
-Viorel                  viorel.zabava04@gmail.com		  EA           III
+Viorel                  viorel.zabava04@gmail.com		      EA           III
 Armean Andreea          armean.andreea2003@gmail.com      TI           II
 Mot Mihai ALexandru     alexmihaita03@gmail.com           TI           II
 -->
@@ -61,14 +61,14 @@ Mot Mihai ALexandru     alexmihaita03@gmail.com           TI           II
 >- **An** :  I
 >- **Since** : 03.03.2022
 
-### - Viorel :
+>### - Viorel :
 >- **Email** :  viorel.zabava04@gmail.com
 >- **Sectie** : EA
 >- **An** :  III
 >- **Since** : 30.06.2023
 >- **Until** : 30.07.2023
 
-### - Andreea :
+>### - Andreea :
 >- **Email** :  armean.andreea2003@gmail.com
 >- **Sectie** : TI
 >- **An** :  II
