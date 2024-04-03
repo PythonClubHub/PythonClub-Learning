@@ -1,37 +1,50 @@
-# Pasii necesari pentru instalarea setup-ului de lucru:
+# Set-up the environment:
+<details>
+<summary>Create a github account</summary>
+We recommend using your personal mail address.  
+<a href="https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github">github</a>
+</details>  
 
->## Crearea unui cont pe [github.com](https://github.com)
->Se recomanda utilizarea unui unui mail personal
+<details>
+<summary>Install GitBash</summary>
+  Git for Windows provides a BASH emulation used to run Git from the command line.  
+  <a href="https://gitforwindows.org">GitBash</a>
+</details>   
 
->## Instalarea GitBah
->Se descarca si se instaleaza GitBash de pe link: [LINK](https://gitforwindows.org/)
+<details>
+<summary>Create SSH key</summary>
+  SSH keys are used to authenticate and establish the connection from your machine to the server in order to establish a secure environment for file transferring, command-line execution and port forwarding. 
+  <a href="https://www.youtube.com/watch?v=WgZIv5HI44o "SSH Key"">Youtube Tutorial Video</a>   
+  
+  Alternatively, you can use the github documentation.  
+  - [Generate SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
+  - [Add SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+</details>  
 
->## Crearea unei chei SSH
->Se creaza o cheie SSH precum in clipul urmator:  
->[![](https://img.youtube.com/vi/WgZIv5HI44o/0.jpg)](https://www.youtube.com/watch?v=WgZIv5HI44o "SSH Key")  
->Se poate utiliza si documentatia de pe GitHub:  
->[Generate SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
->[Add SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+<details>
+<summary>Install Python</summary>
+  Download python, <a href="https://www.python.org/downloads">link</a>  
+  
+  Don't forget to check **"Add to path"**
+  
+  For more information, <a href="https://www.youtube.com/watch?v=ZRbirvsDQ-I">Youtube Tutorial Video</a>
+</details>
 
->## Instalarea Python
->Se descarca Python de pe link : [LINK](https://www.python.org/downloads/)  
->Se va bifa optiunea **"Add to path"**  
->Pentru nelamuriri se poate urmari clipul urmator (pana la minutul 3:00):  
->[![](https://img.youtube.com/vi/ZRbirvsDQ-I/0.jpg)](https://www.youtube.com/watch?v=ZRbirvsDQ-I "Install Python")
+<details>
+<summary>Install VisualStudioCode</summary>
+  Source code editor available on Windows, macOS, Linux, and even your browser.
+  <a href="https://code.visualstudio.com">link</a>
+  For more information,<a href="https://www.youtube.com/watch?v=JPZsB_6yHVo">Install VSCode</a>
+</details>   
 
->## Instalarea VisualStudioCode
->Se descarca VSCode de pe link : [LINK](https://code.visualstudio.com/)  
->Pentru nelamuriri se poate urmari clipul urmator (pana la minutul 3:30):  
->[![](https://img.youtube.com/vi/JPZsB_6yHVo/0.jpg)](https://www.youtube.com/watch?v=JPZsB_6yHVo "Install VSCode")
-
->## Instalarea SourceTree
->Se descarca VSCode de pe link : [LINK](https://www.sourcetreeapp.com/)
->  
->Pentru a putea adauga o cheie SSH se da click pe "Tools" si se selecteaza "Options"
-> ![](Setup%20images/sourcetree.JPG)
->  
->Se selecteaza optiunea "OpenSSH" in campul "SSH Client"
->![](Setup%20images/open%20ssh.JPG)
->  
->Se da click pe cele 3 puncte din dreapta campului "SHH Key" si se alege fisierul cu extensia ".pub"
->![](Setup%20images/SSHkey_select.jpg)
+<details>
+<summary>Install SourceTree</summary>
+  Sourcetree simplifies how you interact with your Git repositories so you can focus on coding.  
+  Download sourcetree : <a href="https://www.sourcetreeapp.com">LINK</a>  
+  
+  - - - - 
+  To add the ssh key go to "Tools" and select Options.  
+  In the SSH Client Configuration chose "OpenSSH" as SSH Client.  
+  Se selecteaza optiunea "OpenSSH" in campul "SSH Client"  
+  Search for your key and introduce it in the SSH Key field. (.pub extension)
+</details>   
