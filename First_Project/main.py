@@ -1,4 +1,7 @@
-''' File to be modified by Vali '''
+''' File to be modified by Newbie 3'''
+
+# Add new function calls and print the new output. Delete this comment before git push :)
+
 import input_name
 import input_age
 import input_details

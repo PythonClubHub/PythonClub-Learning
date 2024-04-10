@@ -1,4 +1,4 @@
-''' File to be modified by Carina '''
+''' File to be modified by Newbie 2 '''
 
 def get_student_music_taste():
     '''
@@ -7,4 +7,4 @@ def get_student_music_taste():
     Argument: None
     Return: String
     '''
-    return "Carina's part"
+    return "Newbie 2 part"
