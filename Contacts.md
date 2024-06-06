@@ -28,7 +28,7 @@ You can find here relevant information about our python club members.
 | Viorel Zabava | `viorel.zabava04@gmail.com` | EA | III | 30.06.2023 | 30.07.2023 |
 | Andreea Armean | `armean.andreea2003@gmail.com` | TI | II | 13.10.2023 |  |
 | Alexandru Mihai | `alexmihaita03@gmail.com` | TI | II | 27.10.2023 |  |
-
+|Hrituleac Emanuel| `hrituleacemanuel@gmail.com`| C | I | 6.06.2024| |
 <!---
 >### - Andrei Cirstea:
 >- **Email** : andrei.cirstea98@gmail.com
