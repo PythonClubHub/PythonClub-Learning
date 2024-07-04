@@ -7,4 +7,13 @@ def get_student_country():
     Argument: None
     Return: String
     '''
-    return "Newbie 5 part"
+    while True:
+        country = input()
+        if country.isalpha() and len(country) <= 20:
+            return country
+        else:
+            print("Error")
+
+
+
+print(get_student_country())
