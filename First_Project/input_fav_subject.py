@@ -1,7 +1,5 @@
 ''' File to be modified by Newbie 4 '''
 
-import re
-
 def get_student_favourite_subject():
     '''
     Function that asks the user to type their favourite subject and return it as string value.
@@ -14,14 +12,10 @@ def get_student_favourite_subject():
     while True:
 
         favoriteSubject=input('Input your favorite subject: ')
-        isToLong=len(favoriteSubject)
-        hasNumbers=re.search('[0-9]',favoriteSubject)
+        hasOnlyCharacters=favoriteSubject.isalpha()
 
-        if isToLong>20:
-            print("Input to long, it shoud have no more than 20 characters!\n")
-
-        elif hasNumbers:
-            print("Input has numbers1, please enter only characters!\n")
+        if not hasOnlyCharacters:
+            print("Please enter only alphabetical characters\n")
         
         else:
              return favoriteSubject
