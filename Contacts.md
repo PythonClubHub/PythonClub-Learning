@@ -30,7 +30,6 @@ You can find here relevant information about our python club members.
 | Alexandru Mihai | `alexmihaita03@gmail.com` | TI | II | 27.10.2023 |  |
 | Ionescu Denisa | `ionescudenisa12@yahoo.com` | C | I | 31.05.2024 |  |
 | Ivan Raoul | `raoulivan81@gmail.com` | C | I | 31.05.2024 |  |
-
 | Hrituleac Emanuel | `hrituleacemanuel@gmail.com` | C | I | 06.06.2024 | |
 
 <!---
