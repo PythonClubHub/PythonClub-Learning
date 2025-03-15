@@ -6,4 +6,8 @@ This project is dedicated to create a method of tracking pigeon pedigrees, provi
 
 Generate the tree view of the pigeon lineage data.
 
-See the pedigree photo expample to understand the requirement.
+Note1:
+See the pigeon_pedigree photo expample to understand the requirement.
+
+Note2:
+Use whatever method or progamming language you like most.
